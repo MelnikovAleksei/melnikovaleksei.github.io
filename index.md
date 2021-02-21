@@ -25,7 +25,7 @@
 * Reactjs 
 * Nodejs (Expressjs) 
 * MongoDB 
-* Vue (Nuxt) - факультатив 
+* Vue (Nuxt) - базовые знания
 * Redux - базовые знания
 
 ## Сейчас я работаю над: 
