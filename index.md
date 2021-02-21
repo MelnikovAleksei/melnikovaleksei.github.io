@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## Обо мне
 
-You can use the [editor on GitHub](https://github.com/MelnikovAleksei/melnikovaleksei.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Меня зовут Алексей, я живу и работаю в Москве. Изучаю веб-программирование на факультете веб-разработки в [Яндекс.Практикум](https://praktikum.yandex.ru/). Моя учёба приближена к рабочим процессам, курс поделен на спринты с дедлайнами, учебные проекты получают код-ревью. На работе для меня важно учиться новому, развивать навыки и помогать в этом своим коллегам. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+В свободное от учёбы и работы время занимаюсь киноведением, документальной фотографией и кулинарией. Неравнодушен к литературе русской эмиграции и путешествиям.
 
-### Markdown
+## Контакты
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* <mailto:meln.a.a@yandex.ru> 
+* Tel.: +7 (925) 768-22-18 
+* [Facebook](https://www.facebook.com/meln.aleksei/) 
+* [GitHub](https://github.com/MelnikovAleksei) 
+* [Codewars](https://www.codewars.com/users/MelnikovAleksei) 
 
-```markdown
-Syntax highlighted code block
+## Навыки: 
 
-# Header 1
-## Header 2
-### Header 3
+* HTML
+* CSS
+* BEM
+* Git (git flow)
+* Bash
+* Webpack 
+* Figma
+* JavaScript
+* Reactjs 
+* Nodejs (Expressjs) 
+* MongoDB 
+* Vue (Nuxt) - факультатив 
+* Redux - базовые знания
 
-- Bulleted
-- List
+## Сейчас я работаю над: 
 
-1. Numbered
-2. List
+* **["Movies Explorer API"](https://github.com/MelnikovAleksei/movies-explorer-api)** - бэкенд (**Express.js**) для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. ***Часть дипломной работы в Яндекс Практикум***
 
-**Bold** and _Italic_ and `Code` text
+* **["Mesto-React-Express"](https://github.com/MelnikovAleksei/mesto-react-express)** - фронтенд (**React.js**, **CSS**) и бэкенд (**Express.js**) части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. ***Основная курсовая работа в Яндекс Практикум***
 
-[Link](url) and ![Image](src)
-```
+### ReactJS:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* **["Hacker news app"](https://github.com/MelnikovAleksei/hacker-news)** - фронтенд (**React.js**) для сайта *Hacker News* в виде главной страницы и страницы новости. Главная страница содержит список из последних 100 новостей в виде списка. Страница новости содержит 1 выбранную новость и комментарии к ней.
 
-### Jekyll Themes
+* **["Высоконравственный сигнал"](https://github.com/MelnikovAleksei/hackathon-25)** - фронтенд (**React.js**, **CSS**) прототипа приложения для генерации гражданских инициатив в условиях цензуры. Пользователь приложения может выбрать проблему и своё настроение. По заданным параметрам программа найдёт для пользователя стихотворную строку, которую он может скопировать в буфер обмена или сохранить в избранном.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelnikovAleksei/melnikovaleksei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* **["ТурбинА"](https://github.com/MelnikovAleksei/marshak-musical-project)** - фронтенд (**React.js**, **CSS**) приложения с возможностью прослушивания музыки и веб-формой для специального музыкального проекта книжного магазина **["Маршак"](https://marshakbooks.ru/)**.
 
-### Support or Contact
+### JS:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* **["Mesto"](https://github.com/MelnikovAleksei/mesto)** - фронтенд (**JavaScript**, **HTML**, **CSS**) приложения с возможностью добавлять и удалять фотографии, ставить им «лайк». 
+
+### HTML, CSS:
+
+* **["Russian Travel"](https://github.com/MelnikovAleksei/russian-travel)** - проектная работа, однастраничный сайт с адаптивным дизайном про внутренний туризм в России. 
+
+* **["How to learn"](https://github.com/MelnikovAleksei/how-to-learn)** - проектная работа, одностраничный сайт про методики обучения. 
+
+* **["Colmar Academy"](https://github.com/MelnikovAleksei/Colmar-Academy)** - дипломная проектная работа интенсива *"Build Websites from Scratch"* школы программирования **[Codecademy](https://www.codecademy.com/)**. 
+
+### Опыт работы: 
+
+* *Май 2020 — по настоящее время:* 
+
+  #### Яндекс.Практикум (студент):
+  
+  Во время своей учебы я реализовал 15 проектных работ на React.js, Express.js, JavaScript, CSS, HTML. Изучил основные технологии и инструменты для начала работы на позиции Junior Frontend-разработчик. 
+  
+* *Май 2016 — по настоящее время:* 
+
+  #### ГБУК г. Москва ЦБС ЮВАО Библиотека 129 - Медиацентр (библиотекарь): 
+  
+  Просветительская деятельность в сфере киноведения, фотографии, литературы и компьютерных технологий. Работа по организации волонтерской деятельности. 
+
+* *до мая 2016:* 
+
+  #### "Лаборатория электронной микроскопии и иммуногистохимии" в МГМУ им. И. М. Сеченова и "Лаборатория гистологии и иммуногистохимии" в Европейский медицинский центр (медицинский лабораторный техник/фельдшер-лаборант) 
+  
+  Лабораторные исследования и диагностика онкологических заболеваний. 
